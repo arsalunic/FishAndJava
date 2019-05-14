@@ -1,0 +1,103 @@
+//Syed Arsal Abbas
+//100835968
+------------------------------------------------------------------------------
+Question1 output:
+A 4cm Sunfish
+4
+Sunfish
+
+------------------------------------------------------------------------------
+Question2:
+Pond with 10 fish as follows:
+A 4cm Sunfish
+A 25cm Pike
+A 20cm Bass
+A 30cm Perch
+A 4cm Sunfish
+A 15cm Pike
+A 9cm Pike
+A 12cm Bass
+A 5cm Sunfish
+A 12cm Sunfish
+
+Catching 7 fish as follows...
+A 15cm Pike
+A 5cm Sunfish
+A 9cm Pike
+A 12cm Sunfish
+A 12cm Bass
+A 4cm Sunfish
+A 4cm Sunfish
+
+Pond with 3 fish as follows:
+A 30cm Perch
+A 25cm Pike
+A 20cm Bass
+
+Attempting to catch 5 random fish as follows...
+A 25cm Pike
+A 20cm Bass
+A 30cm Perch
+null
+null
+
+Pond with 0 fish as follows:
+------------------------------------------------------------------------------
+Question 3a(LIMIT == 3)
+false
+false
+false
+true
+true
+false
+false
+true
+true
+true
+
+Fred with 3 as follows: 
+A 4 cm Sunfish
+A 25 cm Sunfish
+A 10 cm Pike
+Suzy with 2 as follows: 
+A 15 cm Pike
+A 20 cm Pike
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Question 3b(LIMIT == 10):
+Pond with 15 fish as follows:
+A 4cm Sunfish
+A 25cm Pike
+A 20cm Bass
+A 30cm Perch
+A 14cm Sunfish
+A 15cm Pike
+A 9cm Pike
+A 12cm Bass
+A 5cm Sunfish
+A 12cm Sunfish
+A 10cm Bass
+A 2cm Bass
+A 16cm Perch
+A 30cm Sunfish
+A 7cm Perch
+First, Suzy catches 20 fish in the big pond...
+Suzy with 7 as follows: 
+A 30 cm Perch
+A 16 cm Perch
+A 20 cm Bass
+A 10 cm Bass
+A 15 cm Pike
+A 12 cm Bass
+A 25 cm Pike
+Next, Fred catches 20 fish in the big pond...
+Fred with 0 as follows: 
+Here's what's left of the pond ...
+Pond with 8 fish as follows:
+A 7cm Perch
+A 2cm Bass
+A 4cm Sunfish
+A 12cm Sunfish
+A 14cm Sunfish
+A 30cm Sunfish
+A 9cm Pike
+A 5cm Sunfish
